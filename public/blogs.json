@@ -1,0 +1,42 @@
+[
+  {
+    "ID": 1,
+    "Cover": "https://i.ibb.co/DCYMrRG/daria-nepriakhina-x-Y55b-L5m-ZAM-unsplash.jpg",
+    "Title": "Exploring the Mysteries of Deep Space",
+    "Author": "Samantha Johnson",
+    "Author_img": "https://i.ibb.co/NKm0XJ9/jonas-kakaroto-KIPqvv-TOC1s-unsplash.jpg",
+    "Posted_Date": "September 25, 2023",
+    "Reading_Time": 20,
+    "Hashtags": ["#SpaceExploration", "#Astronomy", "#Science"]
+  },
+  {
+    "ID": 2,
+    "Cover": "https://i.ibb.co/GH5RLjW/brigitte-tohm-EAay7-Aj4jbc-unsplash.jpg",
+    "Title": "The Art of Culinary Fusion",
+    "Author": "Michael Rodriguez",
+    "Author_img": "https://i.ibb.co/zWMs7jf/salome-guruli-6-Gg-Cy-Nn-F6-Zs-unsplash.jpg",
+    "Posted_Date": "October 8, 2023",
+    "Reading_Time": 15,
+    "Hashtags": ["#CulinaryArt", "#FoodFusion", "#Cooking"]
+  },
+  {
+    "ID": 3,
+    "Cover": "https://i.ibb.co/S55N4g7/retrosupply-j-Lw-VAUt-LOAQ-unsplash.jpg",
+    "Title": "Mastering the Mind: A Guide to Meditation",
+    "Author": "Emily Davis",
+    "Author_img": "https://i.ibb.co/CJYKR3T/microsoft-365-7m-Bict-B-urk-unsplash.jpg",
+    "Posted_Date": "September 15, 2023",
+    "Reading_Time": 30,
+    "Hashtags": ["#Meditation", "#Mindfulness", "#Wellness"]
+  },
+  {
+    "ID": 4,
+    "Cover": "https://i.ibb.co/q5hmTwj/janko-ferlic-sf-L-QOnmy00-unsplash.jpg",
+    "Title": "Thrilling Tales of Adventure in the Amazon Rainforest",
+    "Author": "David Reynolds",
+    "Author_img": "https://i.ibb.co/4tYJ5BJ/leilani-angel-K84vnnzxm-TQ-unsplash.jpg",
+    "Posted_Date": "September 30, 2023",
+    "Reading_Time": 25,
+    "Hashtags": ["#Adventure", "#Travel", "#AmazonRainforest"]
+  }
+]
